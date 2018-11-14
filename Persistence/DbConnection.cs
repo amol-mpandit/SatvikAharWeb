@@ -1,6 +1,6 @@
 ﻿using System.Data;
 
-namespace Persistence.DbConnection
+namespace Persistence
 {
     public class DbConnection 
     {
